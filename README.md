@@ -1,0 +1,1 @@
+# resetadamsokol.github.io
