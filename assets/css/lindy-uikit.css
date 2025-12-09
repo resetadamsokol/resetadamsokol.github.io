@@ -658,7 +658,7 @@ p {
 .hero-section-wrapper-5 .hero-style-5 {
   position: relative;
   z-index: 1;
-  padding: 270px 0 140px;
+  padding: 188px 0 100px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -686,7 +686,7 @@ p {
 }
 
 .hero-section-wrapper-5 .hero-style-5 .hero-content-wrapper {
-  padding: 100px 0;
+  padding: 0 0;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -758,7 +758,7 @@ p {
 }
 
 .hero-section-wrapper-5 .hero-style-5 .hero-image {
-  margin-bottom: 100px;
+  margin-bottom: 0;
   position: relative;
 }
 
